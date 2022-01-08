@@ -80,5 +80,9 @@ footer p {
     text-align: center;
     color: black;
     font-size: 12px;
-    
+}
+.experience {
+    background-image: url(../images/exp-bg.png);
+    background-repeat:no-repeat;
+    background-position: left;
 }
